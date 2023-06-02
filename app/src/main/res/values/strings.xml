@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Galeria de Arte</string>
+    <string name="img_1">Kiara</string>
+    <string name="author_img_1">Helena</string>
+    <string name="img_2">A Ilha e o Ponto Zero</string>
+    <string name="author_img_2">Firtnite</string>
+    <string name="img_3">Party</string>
+    <string name="author_img_3">Kotlin Course</string>
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
+</resources>
